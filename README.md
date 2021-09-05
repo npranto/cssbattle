@@ -3,8 +3,9 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
 
 ## Challenges
 * Battle 1
-  * #1 - Simply Square
+  * #1 - Simply Square =>
     [Code](https://github.com/npranto/cssbattle/battle-1/simply-square)
+    |
     [Demo](https://npranto.github.io/cssbattle/battle-1/simply-square)
 * Battle 2
 * Battle 3
