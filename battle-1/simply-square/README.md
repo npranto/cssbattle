@@ -1,7 +1,7 @@
 # 1 - Simply Square
 
 ## Challenge
-![Simply Square](./battle-1.png)
+![Simply Square](./simply-square.png)
 
 # Solution
 > [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/simply-square) |
