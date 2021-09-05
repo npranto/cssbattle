@@ -11,6 +11,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/carrom)
     |
     [Demo](https://npranto.github.io/cssbattle/battle-1/carrom)
+  * #3 - Push Button =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/push-button)
+    |
+    [Demo](https://npranto.github.io/cssbattle/battle-1/push-button)
 
 * Battle 2
 * Battle 3
