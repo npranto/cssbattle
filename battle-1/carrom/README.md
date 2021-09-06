@@ -1,4 +1,4 @@
-# 1 - Carrom
+# 2 - Carrom
 
 ## Challenge
 ![Carrom](./carrom.png)
