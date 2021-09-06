@@ -15,6 +15,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/push-button)
     |
     [Demo](https://npranto.github.io/cssbattle/battle-1/push-button)
+  * #4 - Ups n Downs =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/ups-n-downs)
+    |
+    [Demo](https://npranto.github.io/cssbattle/battle-1/ups-n-downs)
 
 * Battle 2
 * Battle 3
