@@ -1,4 +1,4 @@
-# 1 - Push Button
+# 3 - Push Button
 
 ## Challenge
 ![Push Button](./push-button.png)

@@ -1,4 +1,4 @@
-# 1 - Ups n Downs
+# 4 - Ups n Downs
 
 ## Challenge
 ![Ups n Downs](./ups-n-downs.png)
