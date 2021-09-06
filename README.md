@@ -19,6 +19,11 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/ups-n-downs)
     |
     [Demo](https://npranto.github.io/cssbattle/battle-1/ups-n-downs)
+  * #4 - Acid Rain =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/acid-rain)
+    |
+    [Demo](https://npranto.github.io/cssbattle/battle-1/acid-rain)
+
 
 * Battle 2
 * Battle 3
