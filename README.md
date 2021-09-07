@@ -27,9 +27,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/missing-slice)
     |
     [Demo](https://npranto.github.io/cssbattle/battle-1/missing-slice)
-
-
-
+  * #7 - Leafy Trail =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/leafy-trail)
+    |
+    [Demo](https://npranto.github.io/cssbattle/battle-1/leafy-trail)
 * Battle 2
 * Battle 3
 * Battle 4
