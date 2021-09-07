@@ -23,6 +23,11 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/acid-rain)
     |
     [Demo](https://npranto.github.io/cssbattle/battle-1/acid-rain)
+  * #6 - Missing Slice =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/missing-slice)
+    |
+    [Demo](https://npranto.github.io/cssbattle/battle-1/missing-slice)
+
 
 
 * Battle 2
