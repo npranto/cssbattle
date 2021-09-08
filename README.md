@@ -4,37 +4,37 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
 ## Challenges
 * Battle 1
   * #1 - Simply Square =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/simply-square)
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/simply-square/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/simply-square)
+    [Demo](https://npranto.github.io/cssbattle/battle-1/simply-square/)
   * #2 - Carrom =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/carrom)
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/carrom/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/carrom)
+    [Demo](https://npranto.github.io/cssbattle/battle-1/carrom/)
   * #3 - Push Button =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/push-button)
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/push-button/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/push-button)
+    [Demo](https://npranto.github.io/cssbattle/battle-1/push-button/)
   * #4 - Ups n Downs =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/ups-n-downs)
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/ups-n-downs/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/ups-n-downs)
+    [Demo](https://npranto.github.io/cssbattle/battle-1/ups-n-downs/)
   * #5 - Acid Rain =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/acid-rain)
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/acid-rain/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/acid-rain)
+    [Demo](https://npranto.github.io/cssbattle/battle-1/acid-rain/)
   * #6 - Missing Slice =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/missing-slice)
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/missing-slice/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/missing-slice)
+    [Demo](https://npranto.github.io/cssbattle/battle-1/missing-slice/)
   * #7 - Leafy Trail =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/leafy-trail)
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/leafy-trail/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/leafy-trail)
+    [Demo](https://npranto.github.io/cssbattle/battle-1/leafy-trail/)
   * #8 - Forking Crazy =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/forking-crazy)
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/forking-crazy/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/forking-crazy)
+    [Demo](https://npranto.github.io/cssbattle/battle-1/forking-crazy/)
 * Battle 2
 * Battle 3
 * Battle 4
