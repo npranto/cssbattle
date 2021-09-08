@@ -35,6 +35,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/forking-crazy/index.html)
     |
     [Demo](https://npranto.github.io/cssbattle/battle-1/forking-crazy/)
+  * #9 - Tesseract =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/tesseract/index.html)
+    |
+    [Demo](https://npranto.github.io/cssbattle/battle-1/tesseract/)
 * Battle 2
 * Battle 3
 * Battle 4

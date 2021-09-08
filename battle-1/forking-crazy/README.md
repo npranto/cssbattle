@@ -1,4 +1,4 @@
-# 5 - Forking Crazy
+# 8 - Forking Crazy
 
 ## Challenge
 ![Forking Crazy](./forking-crazy.png)
