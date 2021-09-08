@@ -1,42 +1,54 @@
 <div class="container">
-  <div class="leaf top"></div>
-  <div class="leaf middle"></div>
-  <div class="leaf bottom"></div>
+  <div class="outer-rectangle"></div>
+  <div class="diagonal-outer-square"></div>
+  <div class="diagonal-inner-square"></div>
+  <div class="inner-circle"></div>
 </div>
 <style>
+  * {
+    box-sizing: border-box;
+  }
   body {
-    margin: 0;
-    padding: 0;
     width: 100%;
     height: 100%;
-    background: #0B2429;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    width: 100%;
+    height: 100%;
+    background: #222730;
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .container {
-    display: flex;
-    flex-direction: column;
-   	transform: rotate(45deg);
+  .outer-rectangle {
+    background: #4CAAB3;
+    width: 100%;
+    height: 150px;
+    position: absolute;
   }
-  .leaf {
-    width: 120px;
-    height: 120px;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%;
-    border-bottom-left-radius: 50%;
-    background: #F3AC3C;
-    transform: rotate(-135deg);
+  .diagonal-outer-square {
+    background: #222730;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    transform: rotate(45deg);
   }
-  .top {
+  .diagonal-inner-square {
+    background: #4CAAB3;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    transform: rotate(45deg);
+  }
+  .inner-circle {
+    background: #393E46;
+    width: 50px;
+    height: 50px;
+    position: absolute;
     border-radius: 50%;
-    margin-bottom: -35px;
-  }
-  .middle {
-    background: #998235;
-  }
-  .bottom {
-    margin-top: -35px;
   }
 </style>
 
