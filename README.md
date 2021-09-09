@@ -39,6 +39,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/tesseract/index.html)
     |
     [Demo](https://npranto.github.io/cssbattle/battle-1/tesseract/)
+  * #10 - Cloaked Spirits =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/cloaked-spirits/index.html)
+    |
+    [Demo](https://npranto.github.io/cssbattle/battle-1/cloaked-spirits/)
 * Battle 2
 * Battle 3
 * Battle 4
