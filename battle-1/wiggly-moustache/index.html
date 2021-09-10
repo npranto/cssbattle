@@ -1,0 +1,97 @@
+<div class="container">
+  <div class="left">
+    <div class="semi-circle"></div>
+    <div class="tiny-circle"></div>
+  </div>
+  <div class="middle">
+    <div class="semi-circle"></div>
+  </div>
+  <div class="right">
+    <div class="semi-circle"></div>  
+    <div class="tiny-circle"></div>
+  </div>
+</div>
+<style>
+  * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  body {
+    width: 100%;
+    height: 100%;
+  }
+  .container {
+    width: 100%;
+    height: 100%;
+    background: #F5D6B4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .left, 
+  .right, 
+  .middle {
+    width: 100px;
+    height: 100px;
+	display: flex;
+	flex-direction: column;
+    position: relative;
+  }
+  .left, 
+  .right {
+    justify-content: flex-end;
+  }
+  .left {
+    margin-right: -20px;
+  }
+  .right {
+    margin-left: -20px;
+  }
+  .left .semi-circle, 
+  .middle .semi-circle,
+  .right .semi-circle {
+    width: 100px;
+    height: 50px;
+    justify-self: flex-end;
+    background: transparent;
+  } 
+  .left .semi-circle, 
+  .right .semi-circle {
+    border-bottom: 20px solid #D86F45;
+    border-left: 20px solid #D86F45;
+    border-right: 20px solid #D86F45;
+	border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+  .middle .semi-circle {    
+	border-top: 20px solid #D86F45;
+    border-left: 20px solid #D86F45;
+    border-right: 20px solid #D86F45;
+	border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+  }
+  .left .tiny-circle,
+  .right .tiny-circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    background: #D86F45;
+    top: calc(50% - 10px);
+  }
+  .left .tiny-circle {
+    left: 0;
+  }
+  .right .tiny-circle {
+    right: 0;
+  }
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
