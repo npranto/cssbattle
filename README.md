@@ -52,6 +52,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     |
     [Demo](https://npranto.github.io/cssbattle/battle-1/wiggly-moustache/)
 * Battle 2
+  * #13 - Totally Triangle =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/totally-triangle/index.html)
+    |
+    [Demo](https://npranto.github.io/cssbattle/battle-1/totally-triangle/)
 * Battle 3
 * Battle 4
 * Battle 5
