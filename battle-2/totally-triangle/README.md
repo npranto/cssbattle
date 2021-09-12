@@ -1,4 +1,4 @@
-# 9 - Totally Triangle
+# 13 - Totally Triangle
 
 ## Challenge
 ![Totally Triangle](./totally-triangle.png)
