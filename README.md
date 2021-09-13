@@ -56,6 +56,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/totally-triangle/index.html)
     |
     [Demo](https://npranto.github.io/cssbattle/battle-2/totally-triangle/)
+  * #14 - Web Maker Logo =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/web-maker-logo/index.html)
+    |
+    [Demo](https://npranto.github.io/cssbattle/battle-2/web-maker-logo/)
 * Battle 3
 * Battle 4
 * Battle 5
