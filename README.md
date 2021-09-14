@@ -60,6 +60,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/web-maker-logo/index.html)
     |
     [Demo](https://npranto.github.io/cssbattle/battle-2/web-maker-logo/)
+  * #15 - Overlap =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/overlap/index.html)
+    |
+    [Demo](https://npranto.github.io/cssbattle/battle-2/overlap/)
 * Battle 3
 * Battle 4
 * Battle 5
