@@ -1,0 +1,24 @@
+{
+  "name": "cssbattle",
+  "version": "1.0.0",
+  "description": "A bunch of CSS coding challenges to keep improving and mastering CSS skills",
+  "main": "index.js",
+  "scripts": {
+    "format": "npx prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npranto/cssbattle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npranto/cssbattle/issues"
+  },
+  "homepage": "https://github.com/npranto/cssbattle#readme",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "prettier": "2.5.1"
+  }
+}
