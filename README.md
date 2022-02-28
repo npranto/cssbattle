@@ -8,27 +8,27 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
   - #1 - Simply Square =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/simply-square/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/simply-square/)
+    [Demo](https://cssbattle.pages.dev/battle-1/simply-square/)
   - #2 - Carrom =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/carrom/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/carrom/)
+    [Demo](https://cssbattle.pages.dev/battle-1/carrom/)
   - #3 - Push Button =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/push-button/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/push-button/)
+    [Demo](https://cssbattle.pages.dev/battle-1/push-button/)
   - #4 - Ups n Downs =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/ups-n-downs/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/ups-n-downs/)
+    [Demo](https://cssbattle.pages.dev/battle-1/ups-n-downs/)
   - #5 - Acid Rain =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/acid-rain/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/acid-rain/)
+    [Demo](https://cssbattle.pages.dev/battle-1/acid-rain/)
   - #6 - Missing Slice =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/missing-slice/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/missing-slice/)
+    [Demo](https://cssbattle.pages.dev/battle-1/missing-slice/)
   - #7 - Leafy Trail =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/leafy-trail/index.html)
     |
