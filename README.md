@@ -32,7 +32,7 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
   - #7 - Leafy Trail =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/leafy-trail/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/leafy-trail/)
+    [Demo](https://cssbattle.pages.dev/battle-1/leafy-trail/)
   - #8 - Forking Crazy =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/forking-crazy/index.html)
     |
