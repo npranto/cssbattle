@@ -40,7 +40,7 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
   - #9 - Tesseract =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/tesseract/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/tesseract/)
+    [Demo](https://cssbattle.pages.dev/battle-1/tesseract/)
   - #10 - Cloaked Spirits =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/cloaked-spirits/index.html)
     |
