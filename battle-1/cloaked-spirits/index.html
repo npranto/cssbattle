@@ -1,29 +1,28 @@
 <div class="container">
-  <div class="bar left">
-    <div class="outer-circle">
-      <div class="inner-circle"></div>
+  <div class="parent">
+    <div class="child left">
+      <div class="outer-ring">
+        <div class="inner-ring"></div>
+      </div>
     </div>
-  </div>
-  <div class="bar middle">
-    <div class="outer-circle">
-      <div class="inner-circle"></div>
+    <div class="child center">
+      <div class="outer-ring">
+        <div class="inner-ring"></div>
+      </div>
     </div>
-  </div>
-  <div class="bar right">
-    <div class="outer-circle">
-      <div class="inner-circle"></div>
+    <div class="child right">
+      <div class="outer-ring">
+        <div class="inner-ring"></div>
+      </div>
     </div>
   </div>
 </div>
+
 <style>
   * {
     box-sizing: border-box;
-  }
-  body {
-    margin: 0;
     padding: 0;
-    width: 100%;
-    height: 100%;
+    margin: 0;
   }
   .container {
     width: 100%;
@@ -31,13 +30,15 @@
     background: #62306d;
     display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-items: end;
   }
-  .bar {
-    width: 100px;
-    background: #f7ec7d;
+  .parent {
     display: flex;
-    flex-direction: column;
+    align-items: end;
+  }
+  .child {
+    background: #f7ec7d;
+    width: 100px;
     border-top-left-radius: 100px;
     border-top-right-radius: 100px;
   }
@@ -45,42 +46,47 @@
   .right {
     height: 150px;
   }
-  .middle {
+  .center {
     height: 250px;
   }
-  .outer-circle {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
+  .left,
+  .center,
+  .right {
+    display: flex;
+    flex-direction: column;
+  }
+  .left .outer-ring,
+  .center .outer-ring,
+  .right .outer-ring {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
   }
-  .left .outer-circle,
-  .right .outer-circle {
-    background: #aa445f;
-  }
-  .middle .outer-circle {
-    background: #e38f66;
-  }
-  .inner-circle {
+  .left .inner-ring,
+  .center .inner-ring,
+  .right .inner-ring {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 60px;
     height: 60px;
     border-radius: 50%;
   }
-  .left .inner-circle,
-  .right .inner-circle {
+  .left .outer-ring,
+  .right .outer-ring {
+    background: #aa445f;
+  }
+  .left .inner-ring,
+  .right .inner-ring {
     background: #e38f66;
   }
-  .middle .inner-circle {
+  .center .outer-ring {
+    background: #e38f66;
+  }
+  .center .inner-ring {
     background: #aa445f;
   }
 </style>
-
-<!-- OBJECTIVE -->
-<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
-
-<!-- SCORING -->
-<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
-
-<!-- IMPORTANT: remove the comments before submitting -->

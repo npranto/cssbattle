@@ -44,7 +44,7 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
   - #10 - Cloaked Spirits =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/cloaked-spirits/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/cloaked-spirits/)
+    [Demo](https://cssbattle.pages.dev/battle-1/cloaked-spirits/)
   - #11 - Eye of Sauron =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/eye-of-sauron/index.html)
     |
