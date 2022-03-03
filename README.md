@@ -48,7 +48,7 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
   - #11 - Eye of Sauron =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/eye-of-sauron/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-1/eye-of-sauron/)
+    [Demo](https://cssbattle.pages.dev/battle-1/eye-of-sauron/)
   - #12 - Wiggly Moustache =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/wiggly-moustache/index.html)
     |

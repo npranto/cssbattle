@@ -1,85 +1,97 @@
 <div class="container">
-  <div class="semi-circle left">
-    <div class="hide-top-half"></div>
+  <div class="left-circle">
+    <div class="top-cover"></div>
+    <div class="left-inner-circle"></div>
   </div>
-  <div class="circle middle">
-    <div class="inner-circle"></div>
+  <div class="middle-circle">
+    <div class="middle-inner-circle">
+      <div class="middle-red-circle"></div>
+    </div>
   </div>
-  <div class="semi-circle right">
-    <div class="hide-bottom-half"></div>
+  <div class="right-circle">
+    <div class="bottom-cover"></div>
+    <div class="right-inner-circle"></div>
   </div>
 </div>
+
 <style>
   * {
     box-sizing: border-box;
-  }
-  body {
-    margin: 0;
     padding: 0;
-    width: 100%;
-    height: 100%;
+    margin: 0;
   }
   .container {
     width: 100%;
     height: 100%;
     background: #191210;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .circle {
-    width: 140px;
-    height: 140px;
-    background: transparent;
-    border-radius: 50%;
-    z-index: 99;
-    border: 20px solid #eca03d;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .semi-circle {
-    width: 100px;
-    height: 100px;
-    background: transparent;
-    border-radius: 50%;
-    border: 20px solid #eca03d;
     position: relative;
   }
-  .left {
-    margin-right: -20px;
+  .left-circle,
+  .middle-circle,
+  .right-circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 50%;
   }
-  .right {
-    margin-left: -20px;
+  .left-circle,
+  .right-circle {
+    width: 100px;
+    height: 100px;
+    background: #eca03d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
-  .inner-circle {
+  .left-circle {
+    transform: translate(calc(-50% + -100px), -50%);
+  }
+  .right-circle {
+    transform: translate(calc(-50% + 100px), -50%);
+  }
+  .middle-circle {
+    width: 140px;
+    height: 140px;
+    background: #eca03d;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .left-inner-circle,
+  .right-inner-circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #191210;
+  }
+  .middle-inner-circle {
+    width: 100px;
+    height: 100px;
+    background: #191210;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .middle-red-circle {
     width: 50px;
     height: 50px;
-    border-radius: 50%;
     background: #84271c;
+    border-radius: 50%;
   }
-  .hide-top-half {
+  .top-cover,
+  .bottom-cover {
     position: absolute;
-    width: 100px;
     height: 50px;
+    width: 100%;
     background: #191210;
-    left: -20px;
-    top: -20px;
   }
-  .hide-bottom-half {
-    position: absolute;
-    width: 100px;
-    height: 50px;
-    background: #191210;
-    left: -20px;
-    bottom: -20px;
+  .top-cover {
+    top: 0;
+  }
+  .bottom-cover {
+    bottom: 0;
   }
 </style>
-
-<!-- OBJECTIVE -->
-<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
-
-<!-- SCORING -->
-<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
-
-<!-- IMPORTANT: remove the comments before submitting -->
