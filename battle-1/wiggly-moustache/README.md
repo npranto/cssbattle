@@ -7,4 +7,4 @@
 # Solution
 
 > [Code](https://github.com/npranto/cssbattle/tree/main/battle-1/wiggly-moustache/index.html) |
-> [Demo](https://npranto.github.io/cssbattle/battle-1/wiggly-moustache/)
+> [Demo](https://cssbattle.pages.dev/battle-1/wiggly-moustache/)
