@@ -57,7 +57,7 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
   - #13 - Totally Triangle =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/totally-triangle/index.html)
     |
-    [Demo](https://npranto.github.io/cssbattle/battle-2/totally-triangle/)
+    [Demo](https://cssbattle.pages.dev/battle-1/totally-triangle/)
   - #14 - Web Maker Logo =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/web-maker-logo/index.html)
     |
