@@ -1,0 +1,56 @@
+<div class="container mostly-black-bg">
+  <div class="outer-layer center-x-y">
+    <div class="circle outer center-x-y mostly-black-bg">
+      <div class="circle middle center-x-y">
+        <div class="circle mini mostly-black-bg"></div>
+      </div> 
+    </div>
+  </div>
+</div>
+
+<style>
+  * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  .container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+  .mostly-black-bg {
+    background: #0B2429
+  }
+  .center-x-y {
+    display: grid;
+    place-items: center;
+  }
+  .circle {
+    border-radius: 50%;
+  }
+  .outer-layer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    width: 200px;
+    height: 200px;
+    background: #998235;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+  }
+  .outer {
+    width: 180px;
+    height: 180px;
+  }
+  .middle {
+    width: 140px;
+    height: 140px;
+    background: #F3AC3C;
+  }
+  .mini {
+    width: 50px;
+    height: 50px;
+  }
+</style>

@@ -66,6 +66,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/overlap/index.html)
     |
     [Demo](https://cssbattle.pages.dev/battle-2/overlap/)
+  - #16 - Eye of the Tiger =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/eye-of-the-tiger/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-2/eye-of-the-tiger/)
 - Battle 3
 - Battle 4
 - Battle 5
