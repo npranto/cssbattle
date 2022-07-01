@@ -86,6 +86,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/cube/index.html)
     |
     [Demo](https://cssbattle.pages.dev/battle-2/cube/)
+  - #20 - Ticket =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/ticket/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-2/ticket/)
 - Battle 3
 - Battle 4
 - Battle 5

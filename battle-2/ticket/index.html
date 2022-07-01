@@ -1,0 +1,90 @@
+<div class="container">
+  <div class="ticket-transparent">
+    <div class="round-dot lg top-left"></div>
+    <div class="round-dot lg bottom-left"></div>
+    <div class="round-dot sm top-center"></div>
+    <div class="round-dot sm bottom-center"></div>
+    <div class="round-dot lg top-right"></div>
+    <div class="round-dot lg bottom-right"></div>
+  </div>
+  <div>
+    <div class="ticket">
+      <div class="yellow-side"></div>
+      <div class="orange-side"></div>
+    </div>
+  </div>
+</div>
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .container {
+    width: 100vw;
+    height: 100vh;
+    background: #62306d;
+    position: relative;
+  }
+  .ticket,
+  .ticket-transparent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 100px;
+  }
+  .ticket {
+    display: flex;
+  }
+  .yellow-side {
+    width: 70%;
+    background: #f7ec7d;
+  }
+  .orange-side {
+    width: 30%;
+    background: #e38f66;
+  }
+  .round-dot {
+    position: absolute;
+    z-index: 10;
+    background: #62306d;
+    border-radius: 50%;
+  }
+  .lg {
+    width: 40px;
+    height: 40px;
+  }
+  .sm {
+    width: 20px;
+    height: 20px;
+  }
+  .top-left {
+    transform: translate(-20px, -20px);
+  }
+  .bottom-left {
+    bottom: 0;
+    left: 0;
+    transform: translate(-20px, 20px);
+  }
+  .top-center {
+    top: 0;
+    left: 70%;
+    transform: translate(-10px, -10px);
+  }
+  .bottom-center {
+    bottom: 0;
+    left: 70%;
+    transform: translate(-10px, 10px);
+  }
+  .top-right {
+    right: 0;
+    transform: translate(20px, -20px);
+  }
+  .bottom-right {
+    bottom: 0;
+    right: 0;
+    transform: translate(20px, 20px);
+  }
+</style>
