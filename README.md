@@ -82,16 +82,20 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/matrix/index.html)
     |
     [Demo](https://cssbattle.pages.dev/battle-2/matrix/)
-  - #19 - Cube =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/cube/index.html)
-    |
-    [Demo](https://cssbattle.pages.dev/battle-2/cube/)
-  - #20 - Ticket =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/ticket/index.html)
-    |
-    [Demo](https://cssbattle.pages.dev/battle-2/ticket/)
 - Battle 3
+  - #19 - Cube =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-3/cube/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-3/cube/)
+  - #20 - Ticket =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-3/ticket/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-3/ticket/)
 - Battle 4
+  - #21 - SitePoint Logo =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-3/ticket/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-3/ticket/)
 - Battle 5
 - Battle 6
 - Battle 7
