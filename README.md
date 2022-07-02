@@ -70,10 +70,6 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/eye-of-the-tiger/index.html)
     |
     [Demo](https://cssbattle.pages.dev/battle-2/eye-of-the-tiger/)
-  - #16 - Eye of the Tiger =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/eye-of-the-tiger/index.html)
-    |
-    [Demo](https://cssbattle.pages.dev/battle-2/eye-of-the-tiger/)
   - #17 - Fidget Spinner =>
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-2/fidget-spinner/index.html)
     |
