@@ -89,9 +89,9 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Demo](https://cssbattle.pages.dev/battle-3/ticket/)
 - Battle 4
   - #21 - SitePoint Logo =>
-    [Code](https://github.com/npranto/cssbattle/tree/main/battle-3/sitepoint-logo/index.html)
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/sitepoint-logo/index.html)
     |
-    [Demo](https://cssbattle.pages.dev/battle-3/sitepoint-logo/)
+    [Demo](https://cssbattle.pages.dev/battle-4/sitepoint-logo/)
 - Battle 5
 - Battle 6
 - Battle 7
