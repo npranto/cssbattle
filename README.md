@@ -92,6 +92,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/sitepoint-logo/index.html)
     |
     [Demo](https://cssbattle.pages.dev/battle-4/sitepoint-logo/)
+  - #22 - Cloud =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/cloud/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-4/cloud/)
 - Battle 5
 - Battle 6
 - Battle 7

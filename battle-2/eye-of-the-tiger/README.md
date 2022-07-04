@@ -2,7 +2,7 @@
 
 ## Challenge
 
-![Overlap](./eye-of-the-tiger.png)
+![Eye of the Tiger](./eye-of-the-tiger.png)
 
 # Solution
 
