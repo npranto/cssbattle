@@ -2,7 +2,7 @@
 
 ## Challenge
 
-![Overlap](./ticket.png)
+![Ticket](./ticket.png)
 
 # Solution
 

@@ -2,7 +2,7 @@
 
 ## Challenge
 
-![Overlap](./fidget-spinner.png)
+![Fidget Spinner](./fidget-spinner.png)
 
 # Solution
 

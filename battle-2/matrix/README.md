@@ -2,7 +2,7 @@
 
 ## Challenge
 
-![Overlap](./matrix.png)
+![Matrix](./matrix.png)
 
 # Solution
 

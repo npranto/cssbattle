@@ -2,7 +2,7 @@
 
 ## Challenge
 
-![Overlap](./cube.png)
+![Cube](./cube.png)
 
 # Solution
 
