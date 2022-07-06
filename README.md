@@ -96,6 +96,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/cloud/index.html)
     |
     [Demo](https://cssbattle.pages.dev/battle-4/cloud/)
+  - #23 - Boxception =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/boxception/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-4/boxception/)
 - Battle 5
 - Battle 6
 - Battle 7
