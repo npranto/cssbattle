@@ -100,6 +100,14 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/boxception/index.html)
     |
     [Demo](https://cssbattle.pages.dev/battle-4/boxception/)
+  - #24 - Switches =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/switches/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-4/switches/)
+  - #25 - Blossom =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/blossom/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-4/blossom/)
 - Battle 5
 - Battle 6
 - Battle 7
