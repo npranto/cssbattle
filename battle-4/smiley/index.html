@@ -1,0 +1,39 @@
+<div class="container">
+  <div class="arc left"></div>
+  <div class="arc mid"></div>
+  <div class="arc right"></div>
+</div>
+
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .container {
+    background: #6592cf;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  }
+  .arc {
+    position: absolute;
+    width: 120px;
+    height: 60px;
+    border: 20px solid #060f55;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom: 0;
+    top: 50%;
+    left: 50%;
+  }
+  .left {
+    transform: translate(calc(-50% - 100px), calc(-50% - 80px));
+  }
+  .right {
+    transform: translate(calc(-50% + 100px), calc(-50% - 80px));
+  }
+  .mid {
+    transform: translate(-50%, calc(-50% + 80px)) rotate(-180deg);
+  }
+</style>

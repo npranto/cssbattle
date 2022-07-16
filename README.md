@@ -108,6 +108,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/blossom/index.html)
     |
     [Demo](https://cssbattle.pages.dev/battle-4/blossom/)
+  - #26 - Smiley =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/smiley/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-4/smiley/)
 - Battle 5
 - Battle 6
 - Battle 7
