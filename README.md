@@ -112,6 +112,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/smiley/index.html)
     |
     [Demo](https://cssbattle.pages.dev/battle-4/smiley/)
+  - #27 - Lock Up =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/lock-up/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-4/lock-up/)
 - Battle 5
 - Battle 6
 - Battle 7
