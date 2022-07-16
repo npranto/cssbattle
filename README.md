@@ -116,6 +116,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/lock-up/index.html)
     |
     [Demo](https://cssbattle.pages.dev/battle-4/lock-up/)
+  - #28 - Cups & Balls =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-4/cups-and-balls/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-4/cups-and-balls/)
 - Battle 5
 - Battle 6
 - Battle 7

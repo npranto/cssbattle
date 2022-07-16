@@ -1,0 +1,54 @@
+<div class="container">
+  <div class="box">
+    <div class="ball bg-lemon-ginger"></div>
+    <div class="cup bg-yellow-orange"></div>
+    <div class="cup bg-lemon-ginger"></div>
+    <div class="ball bg-yellow-orange"></div>
+    <div class="cup bg-yellow-orange upside-down"></div>
+    <div class="ball bg-lemon-ginger"></div>
+    <div class="ball bg-yellow-orange"></div>
+    <div class="cup bg-lemon-ginger upside-down"></div>
+  </div>
+</div>
+
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .container {
+    background: #1a4341;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .bg-yellow-orange {
+    background: #f3ac3c;
+  }
+  .bg-lemon-ginger {
+    background: #998235;
+  }
+  .upside-down {
+    transform: rotate(180deg);
+  }
+  .box {
+    width: calc(50px + 50px + 50px + 50px + 60px);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .ball {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  .cup {
+    width: 50px;
+    height: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+  }
+</style>
