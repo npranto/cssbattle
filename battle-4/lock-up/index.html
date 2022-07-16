@@ -1,0 +1,40 @@
+<div class="container">
+  <div class="red-circle"></div>
+  <div class="yellow-circle-borders"></div>
+</div>
+
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .container {
+    background: #e38f66;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  }
+  .red-circle {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: #aa445f;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .yellow-circle-borders {
+    border: 30px solid #f7ec7d;
+    width: 140px;
+    height: 140px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(45deg);
+    border-radius: 50%;
+    border-left-color: transparent;
+    border-right-color: transparent;
+  }
+</style>
