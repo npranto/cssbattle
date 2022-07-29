@@ -1,0 +1,55 @@
+<div class="container">
+  <div class="transparent-square">
+    <div class="circle top-left"></div>
+    <div class="circle top-right"></div>
+    <div class="circle bottom-left"></div>
+    <div class="circle bottom-right"></div>
+  </div>
+</div>
+<style>
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  .container {
+    background: #f3ac3c;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  }
+  .transparent-square {
+    width: 200px;
+    height: 200px;
+    background: #1a4341;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+  }
+  .top-left,
+  .top-right,
+  .bottom-left,
+  .bottom-right {
+    background: #f3ac3c;
+    position: absolute;
+  }
+  .top-left {
+    transform: translate(-50%, -50%);
+  }
+  .top-right {
+    transform: translate(50%, -50%);
+  }
+  .bottom-left {
+    transform: translate(-50%, 50%);
+  }
+  .bottom-right {
+    transform: translate(50%, 50%);
+  }
+</style>

@@ -121,6 +121,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     |
     [Demo](https://cssbattle.pages.dev/battle-4/cups-and-balls/)
 - Battle 5
+  - #29 - Suffocate =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-5/suffocate/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-5/suffocate/)
 - Battle 6
 - Battle 7
 - Battle 8
