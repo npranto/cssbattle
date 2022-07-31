@@ -125,6 +125,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     [Code](https://github.com/npranto/cssbattle/tree/main/battle-5/suffocate/index.html)
     |
     [Demo](https://cssbattle.pages.dev/battle-5/suffocate/)
+  - #30 - Horizon =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-5/horizon/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-5/horizon/)
 - Battle 6
 - Battle 7
 - Battle 8
