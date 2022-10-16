@@ -130,6 +130,10 @@ A bunch of CSS coding challenges to keep improving and mastering CSS skills
     |
     [Demo](https://cssbattle.pages.dev/battle-5/horizon/)
 - Battle 6
+  - #31 - Equals =>
+    [Code](https://github.com/npranto/cssbattle/tree/main/battle-6/equals/index.html)
+    |
+    [Demo](https://cssbattle.pages.dev/battle-6/equals/)
 - Battle 7
 - Battle 8
 - Battle 9
