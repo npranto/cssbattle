@@ -1,0 +1,33 @@
+<div class="container">
+  <div class="semi-circle left"></div>
+  <div class="semi-circle right"></div>
+</div>
+<style>
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .container {
+    width: 100vw;
+    height: 100vh;
+    background: #aa445f;
+  }
+  .semi-circle {
+    width: 200px;
+    height: 100px;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  }
+  .right {
+    background: #e38f66;
+    transform: translate(calc(-50% + 75px), -50%) rotate(90deg);
+  }
+  .left {
+    background: #f7ec7d;
+    transform: translate(calc(-50% - 75px), -50%) rotate(-90deg);
+  }
+</style>
