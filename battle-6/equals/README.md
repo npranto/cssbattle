@@ -6,5 +6,5 @@
 
 # Solution
 
-> [Code](https://github.com/npranto/cssbattle/tree/main/battle-6/Equals/index.html) |
+> [Code](https://github.com/npranto/cssbattle/tree/main/battle-6/equals/index.html) |
 > [Demo](https://cssbattle.pages.dev/battle-6/equals/)
